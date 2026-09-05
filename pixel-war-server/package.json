@@ -1,0 +1,13 @@
+{
+  "name": "pixel-war-server",
+  "version": "1.0.0",
+  "description": "Serveur Pixel War - grille de pixels partagee en temps reel via WebSocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
