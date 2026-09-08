@@ -1,7 +1,7 @@
 {
   "name": "pixel-war-server",
   "version": "1.0.0",
-  "description": "Serveur Pixel War - grille de pixels partagee en temps reel via WebSocket",
+  "description": "Serveur Pixel War - grille de pixels partagee en temps reel via WebSocket, paiement PayPal, compte admin",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
